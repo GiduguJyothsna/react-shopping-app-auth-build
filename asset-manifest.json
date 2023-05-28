@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.318cd2f6.css",
+    "main.js": "/static/js/main.f95c5ef8.js",
+    "static/js/787.f3d7924f.chunk.js": "/static/js/787.f3d7924f.chunk.js",
+    "static/media/article-technology-c1.png": "/static/media/article-technology-c1.6ec7d7d4e9f6a1aac73f.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/supermarket.jpg": "/static/media/supermarket.801fe60cfa3c11f74891.jpg",
+    "static/media/shopping-mall.jpg": "/static/media/shopping-mall.c37b6edd0ece989bb543.jpg",
+    "static/media/spinning-loading.gif": "/static/media/spinning-loading.24b933aad9bad942fb6f.gif",
+    "static/media/spinner.gif": "/static/media/spinner.a1a996746e5e48352c81.gif",
+    "static/media/404.png": "/static/media/404.1062f5e41ef989b5973a.png",
+    "index.html": "/index.html",
+    "main.318cd2f6.css.map": "/static/css/main.318cd2f6.css.map",
+    "main.f95c5ef8.js.map": "/static/js/main.f95c5ef8.js.map",
+    "787.f3d7924f.chunk.js.map": "/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.318cd2f6.css",
+    "static/js/main.f95c5ef8.js"
+  ]
+}
